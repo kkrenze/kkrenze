@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                2 hrs           ██████████████████████░░░   88.60 %
-CSS                5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Apache Config      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-reStructuredText   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-JavaScript         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+PHP                3 hrs 12 mins   ███████████████████████░░   92.02 %
+CSS                5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Apache Config      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+reStructuredText   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+JavaScript         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
