@@ -2,8 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP      1 hr 42 mins    ██████████████████████▓░░   90.69 %
-Python   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+PHP   1 hr 42 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
