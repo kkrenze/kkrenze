@@ -2,7 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart              1 hr 35 mins    ███████████████████████▓░   94.74 %
+YAML              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Other             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Java              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Git Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
