@@ -2,10 +2,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 18 mins    █████████████████████▒░░░   85.64 %
-TypeScript   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Markdown     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-PHP          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+JavaScript   21 mins         ████████████████░░░░░░░░░   64.01 %
+TypeScript   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+Markdown     5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
 ```
 
 <!--END_SECTION:waka-->
